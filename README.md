@@ -1,2 +1,3 @@
 # piTank
-Control Raspberry pi tank motor shield
+Control Raspberry pi tank\
+Uses Arduino Motor Shield controller project by @lipoja https://github.com/lipoja/AMSpi
